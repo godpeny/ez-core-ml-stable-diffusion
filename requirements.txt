@@ -8,3 +8,4 @@ pytest
 invisible-watermark
 safetensors
 matplotlib
+huggingface-hub>=0.16.4

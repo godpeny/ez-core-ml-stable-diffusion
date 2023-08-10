@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 from python_coreml_stable_diffusion._version import __version__
 
-with open('README.md') as f:
+with open('ORIGINAL_README.md') as f:
     readme = f.read()
 
 setup(
